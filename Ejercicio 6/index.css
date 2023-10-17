@@ -5,7 +5,7 @@
   }
   
   body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: #f7f7f7;
     color: #333;
   }
@@ -43,7 +43,7 @@
   }
   
   .section {
-    background: #fff;
+    background: #dfdddd;
     padding: 30px;
     text-align: center;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
